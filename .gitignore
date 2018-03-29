@@ -1,0 +1,8 @@
+*.pyc
+.project
+.pydevproject
+.settings
+getstatus/config.json
+*.ipynb_checkpoints
+getstatus/*.log
+**/__pycache__

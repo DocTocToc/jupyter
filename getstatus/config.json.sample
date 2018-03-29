@@ -1,0 +1,20 @@
+{
+"settings":{
+    "search_query":"",
+    "tweet_language":"",
+    "number_of_rt":0,
+    "bot_id":0,
+    "doctoctoc":"",
+    "complete":""
+    },
+"whitelist":{
+     "slugs":["xxx", "yyy"],
+     "file":"xxx"
+     },
+"twitter":{
+     "consumer_key":"xxx",
+     "consumer_secret":"xxx",
+     "access_token":"xxx",
+     "access_token_secret":"xxx"
+     }
+}
