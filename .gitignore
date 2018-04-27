@@ -2,7 +2,7 @@
 .project
 .pydevproject
 .settings
-getstatus/config.json
+dataset/config.json
 *.ipynb_checkpoints
-getstatus/*.log
+dataset/*.log
 **/__pycache__
